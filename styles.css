@@ -97,11 +97,11 @@ p {
 }
 
 #botão-2:hover {
-    opacity: .8;
+    opacity: 0.8;
 }
 
 #botão-2:active {
-    opacity: .5;
+    opacity: 0.5;
 }
 
 @media screen and (max-width:800px) {
